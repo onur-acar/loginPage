@@ -1,0 +1,35 @@
+*{
+    background-color: #E5E5E5;
+    text-align: center;
+    padding: 5px;
+    margin: 10px;
+}
+.buton{
+    height: 48px;
+    width: 337px;
+    left: 45px;
+    top: 515px;
+    border-radius: 6px;
+    padding: 12px 139px 12px 139px;
+    color: white;
+    background-color: #923CFF; 
+    text-decoration:none;
+}
+input{
+    border-radius: 4px;
+    background-color: white;
+    width: 322px;
+    left: 46px;
+    top: 332px;
+}
+a{
+    height: 15px;
+    width: 93px;
+    left: 264px;
+    top: 460px;
+    border-radius: nullpx;
+
+}
+.buton:hover{
+    background-color: #4c07a5;
+}
